@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wheel-picker-android",
+  "name": "@dayzz/react-native-wheel-picker",
   "version": "3.0.0",
   "description": "Simple Wheel Picker for Android to use with react-native",
   "main": "index.tsx",
